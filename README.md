@@ -66,9 +66,9 @@
 
 任务四：根据网上的教程，在电脑上配置pytorch环境，同时通过anaconda创建一个pytorch的专门环境，注意不要把torch安装在base环境里面
 
-任务五：把李宏毅机器学习前两个视频看了，b站就有https://www.bilibili.com/video/BV1YsqSY8EiW，前两个视频即 第一节上机器学习基本概念 和 第一节下深度学习基本概念，了解机器学习和深度学习的关系，以及正向传播、反向传播、学习率等基本概念
+任务五：把李宏毅机器学习前两个视频看了，b站就有https://www.bilibili.com/video/BV1YsqSY8EiW ，前两个视频即 第一节上机器学习基本概念 和 第一节下深度学习基本概念，了解机器学习和深度学习的关系，以及正向传播、反向传播、学习率等基本概念
 
-任务六：菜鸟pytorch教程https://www.runoob.com/pytorch/pytorch-tutorial.html，使用jupyter来跑这个教程代码，注意本周最后交的作业也是交jupyter的文件
+任务六：菜鸟pytorch教程https://www.runoob.com/pytorch/pytorch-tutorial.html ，使用jupyter来跑这个教程代码，注意本周最后交的作业也是交jupyter的文件
 
 注：这个教程中，卷积神经网络、循环神经网络、transformer以及后面torch和torch.nn的参考手册可以不用看
 
