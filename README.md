@@ -42,7 +42,7 @@
 
 任务一：根据网上的教程，安装vscode，同时配置好python环境
 
-任务二：菜鸟python基础https://www.runoob.com/python3/python3-tutorial.html，看到高级教程之前
+任务二：菜鸟python基础https://www.runoob.com/python3/python3-tutorial.html ，看到高级教程之前
 
 注：1、学过、会的东西可以快速跳过，不会的内容，通过vscode进行实践操作，保留好运行的脚本，这周末以文件的形式发给我；2、所有的属性、函数等不用可以记忆，过一遍知道有什么功能就行
 
