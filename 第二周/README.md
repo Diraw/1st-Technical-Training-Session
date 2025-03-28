@@ -2,6 +2,10 @@
 
 上传.ipynb文件，内容为[菜鸟pytorch教程](https://www.runoob.com/pytorch/pytorch-tutorial.html) （使用jupyter来跑这个教程代码），命名为自己的名字
 
+## 提交作业
+
+[尹俊龙](./尹俊龙.ipynb)、[丁睿](./丁睿.ipynb)、[李思成](./李思成/)
+
 ## 上传流程
 
 **提交第二周作业之前，请先在自己账号上创建仓库并学习git的基本操作！！**
